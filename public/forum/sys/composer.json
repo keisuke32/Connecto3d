@@ -1,0 +1,10 @@
+{
+    "require": {
+        "illuminate/database": "4.2.*",
+      "ext-gd": "*",
+      "ext-curl": "*",
+      "ext-pdo": "*",
+      "ext-mbstring": "*",
+      "ext-dom": "*"
+    }
+}
